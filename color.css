@@ -1,0 +1,19 @@
+.red{
+    background-color: red;
+}
+.groc{
+    background-color: yellow;
+}
+.blau{
+    background-color: blue;
+}
+.taronja{
+    background-color: orange;
+}
+.verd{
+    background-color: green;
+}
+.res{
+    position: relative;
+    left: 10px;
+}
